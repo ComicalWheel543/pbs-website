@@ -1,6 +1,7 @@
 /* Reset Style Sheet */
 * {
     font-family: Arial, sans-serif;
+    font-size: 16px;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -50,6 +51,7 @@ button {
 /*Header sytles */
 h2 {
     color: #2638C4;
+    font-size: 20px;
 }
 
 #rights h2{
