@@ -115,3 +115,17 @@ aside{
     margin-bottom: 5px;
 }
 
+/*Footer*/
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer img{
+    width: 35%;
+    height: 80px;
+    padding-bottom: 5px;
+    margin-top: 3%;
+    
+}
+
